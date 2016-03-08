@@ -1,0 +1,14 @@
+Script started on Tue 08 Mar 2016 01:35:29 PM UTC
+]0;yuki_n@yuki-n-pc: ~/git[01;31myuki_n@yuki-n-pc[00m:[01;34m~/git[00m$ whami;oami;[C[C[C[C pwd
+yuki_n
+/home/yuki_n/git
+]0;yuki_n@yuki-n-pc: ~/git[01;31myuki_n@yuki-n-pc[00m:[01;34m~/git[00m$ git config -l
+user.name=Jimmy Liu
+user.email=jimmy_20039@yahoo.com.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;yuki_n@yuki-n-pc: ~/git[01;31myuki_n@yuki-n-pc[00m:[01;34m~/git[00m$ exit
+
+Script done on Tue 08 Mar 2016 01:35:51 PM UTC
